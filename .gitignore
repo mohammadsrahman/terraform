@@ -1,0 +1,4 @@
+.idea/
+.tmp/
+terraform-gke-sportsloop-keyfile.json
+/terraform-gke-sports-loop-keyfile.json
